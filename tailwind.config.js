@@ -1,0 +1,1 @@
+// Needed for vscode tailwind intellisense
